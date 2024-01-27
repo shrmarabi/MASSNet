@@ -16,6 +16,6 @@
 + GCC: 4.9/5.3/5.4/7.3
 
 # Install mmdetection
-1. James Madison
-1. James Monroe
-1. John Quincy Adams
+a. James Madison
+a. James Monroe
+a. John Quincy Adams
