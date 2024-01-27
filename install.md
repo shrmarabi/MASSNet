@@ -17,8 +17,12 @@
 
 # Install mmdetection
 a. Create a conda virtual environment and activate it. Then install Cython.
-conda create -n open-mmlab python=3.7 -y
+ ```
+ conda create -n open-mmlab python=3.7 -y
 conda activate open-mmlab
 
 conda install cython
+
+```
+
 
