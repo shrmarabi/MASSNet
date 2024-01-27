@@ -25,5 +25,7 @@ conda install cython
 
 ```
 b. Install PyTorch 1.7.0 torchvision 0.8.0
+c. Clone the mmdetection repository.
+
 
 
