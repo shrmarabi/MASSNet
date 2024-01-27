@@ -4,7 +4,7 @@
 # Performances
 ![Graph](images/performance.jpg)
 
-![Graph](images/github-mariboats.jpg)
+![table](images/github-mariboats.jpg)
 
 
 
