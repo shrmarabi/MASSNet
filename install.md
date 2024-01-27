@@ -29,7 +29,13 @@ b. Install PyTorch 1.7.0 torchvision 0.8.0.
 c. Clone the mmdetection repository.
 ```
 git clone https://github.com/shrmarabi/MASSNet.git
-cd mmdetection
+cd MASSNet-main
+```
+
+d. Install mmdetection (other dependencies will be installed automatically).
+```
+python setup.py develop
+# or "pip install -v -e ."
 ```
 
 
