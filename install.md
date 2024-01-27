@@ -1,8 +1,8 @@
 # Installation
 
 ## Requirements
-- Linux
-* Python 3.5+
++ Linux
++ Python 3.5+
 + PyTorch 1.7
 + CUDA 10.0+
 + NCCL 2+
