@@ -2,7 +2,7 @@
 ![Structure of Multiscale attention backbone of MASSNet](images/architecture.jpg)
 
 # Performances
-![Graph](imgs/visual.png)
+![Graph](images/performance.jpg)
 
 
 
