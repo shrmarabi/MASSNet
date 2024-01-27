@@ -14,3 +14,8 @@
 + CUDA: 9.2/10.0/11.4
 + NCCL: 2.1.15/2.2.13/2.3.7/2.4.2
 + GCC: 4.9/5.3/5.4/7.3
+
+# Install mmdetection
+1. James Madison
+1. James Monroe
+1. John Quincy Adams
