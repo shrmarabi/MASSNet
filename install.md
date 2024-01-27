@@ -17,5 +17,5 @@
 
 # Install mmdetection
 a. James Madison
-a. James Monroe
-a. John Quincy Adams
+b. James Monroe
+c. John Quincy Adams
