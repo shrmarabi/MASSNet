@@ -16,6 +16,9 @@
 + GCC: 4.9/5.3/5.4/7.3
 
 # Install mmdetection
-a. James Madison
-b. James Monroe
-c. John Quincy Adams
+a. Create a conda virtual environment and activate it. Then install Cython.
+conda create -n open-mmlab python=3.7 -y
+conda activate open-mmlab
+
+conda install cython
+
