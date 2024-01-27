@@ -8,3 +8,5 @@
 + NCCL 2+
 + GCC 4.9+
 + MMCV 1.7.1 full
+
+#We have tested the following versions of OS and softwares:
