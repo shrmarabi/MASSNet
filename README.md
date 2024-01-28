@@ -5,4 +5,4 @@
 ## Performances
 ![image](images/performance.jpg)
 
-![Table](images/mariboats.jpg)
+![Table](images/github-mariboats.jpg) 
