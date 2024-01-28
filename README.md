@@ -3,3 +3,4 @@
 ![image](images/architecture.jpg)
 
 ## Performances
+![image](images/performance.jpg)
