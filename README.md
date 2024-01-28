@@ -23,9 +23,9 @@ a. Download the train weights from google drive (link attached) for the three ma
 
 ## After downloading the train weights from the link above
 b.To visualize and test the demo for an image
-+ For MariboatS
-  Demo script
-+ For ShipInsSeg
-  Demo script
-+ For ShipSG
+1. For MariboatS
+  + Demo script
+2. For ShipInsSeg
++ Demo script
+3. For ShipSG
 + Demo script
