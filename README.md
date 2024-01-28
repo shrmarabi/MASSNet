@@ -16,7 +16,7 @@ Our MASSNet is based on [mmdetection](https://github.com/open-mmlab/mmdetection)
 
 ## A quick Demo
 a. Download the train weights from google drive (link attached) for the three marine datasets below:
-+ MariboatS 
++ MariboatS [train weights](https://drive.google.com/file/d/1lVF7bsQ59HG0xZXCC3ts-1AvPcnnd4GA/view?usp=drive_link)
 + ShipInsSeg
 + ShipSG
   
