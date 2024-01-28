@@ -29,10 +29,12 @@ b.To visualize and test the demo for an image
   ```
 
 2. Demo script to test a single image for ShipInsSeg:
+
 ```
-  python demo/image_demo.py demo/demo/ShipInsSeg/1.jpg work_dirs/MASSNet_Journal_Experiments/ShipInsSeg/MASSNet/massnet_r101_fpn_1x_coco.py work_dirs/MASSNet_Journal_Experiments/ShipInsSeg/MASSNet/latest.pth
+python demo/image_demo.py demo/demo/ShipInsSeg/1.jpg work_dirs/MASSNet_Journal_Experiments/ShipInsSeg/MASSNet/massnet_r101_fpn_1x_coco.py work_dirs/MASSNet_Journal_Experiments/ShipInsSeg/MASSNet/latest.pth
 ```
 3. Demo script to test a single image for ShipSG:
+
 ```
   python demo/image_demo.py demo/demo/ShipSG/1.jpg work_dirs/MASSNet_Journal_Experiments/ShipSG/MASSNet/massnet_r101_fpn_1x_coco.py work_dirs/MASSNet_Journal_Experiments/ShipSG/MASSNet/latest.pth
 ```
