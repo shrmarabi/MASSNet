@@ -30,3 +30,5 @@ b.To visualize and test the demo for an image
 +  python demo/image_demo.py demo/demo/ShipInsSeg/1.jpg configs/massnet/massnet_r101_fpn_1x_coco.py work_dirs/MASSNet_Journal_Experiments/ShipInsSeg/MASSNet/latest.pth
 3. Demo script to test a single image for ShipSG:
 +  python demo/image_demo.py demo/demo/ShipSG/1.jpg configs/massnet/massnet_r101_fpn_1x_coco.py work_dirs/MASSNet_Journal_Experiments/ShipSG/MASSNet/latest.pth
+
+## Note- Download the train weights and paste in "work_dirs/MASSNet_Journal_Experiments/MariboatS/MASSNet/latest.pth" path for MariboatS Dataset.
