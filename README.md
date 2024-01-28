@@ -10,3 +10,6 @@
 ![Table](images/github-shipinsseg.jpg) 
 
 ![Table](images/github-shipsg.jpg) 
+
+## Installation
+Our MASSNet is based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please check [INSTALL.md](INSTALL.md) for installation instructions.
