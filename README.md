@@ -15,7 +15,7 @@
 Our MASSNet is based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please check [INSTALL.md](https://github.com/shrmarabi/MASSNet/blob/main/install.md) for installation instructions.
 
 ## A quick Demo
-a. Download the train weights from google drive (link attached) in the reviewer response file:
+a. Download the train weights from google drive (link attached) in the reviewer response file.
 
  
 
